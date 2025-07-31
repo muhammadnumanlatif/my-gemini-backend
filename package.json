@@ -6,8 +6,6 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Your Name",
-  "license": "ISC",
   "dependencies": {
     "@google/generative-ai": "^0.14.1",
     "cors": "^2.8.5",
